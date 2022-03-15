@@ -1,4 +1,4 @@
-# CPPM main bucket
+# CPPM *main* bucket
 The default CPPM bucket.
 ## Submitting packages
 Create a file containing the URL to the app.
