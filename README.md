@@ -13,5 +13,5 @@ Run `bucket quickfix main` to update the main bucket.
 ## Other buckets
 * [Admin](https://github.com/cppmbucket/admin): Non-portable apps that may require UAC on CPPM NT and `sudo` on CPPM POSIX
 * [Python](https://github.com/cppmbucket/python): Python 3.8-3.11 modules (you must run `install python3`)
-* [Ported](https://github.com/cppmbucket/ported) (a play on *Parted*): Apps ported from other systems to another
+* [Ports](https://github.com/cppmbucket/ports): Apps made for other systems, then had a port to another OS
 * [Multiverse](https://github.com/cppmbucket/multiverse): Nonfree apps
